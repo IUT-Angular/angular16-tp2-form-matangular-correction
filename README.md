@@ -21,8 +21,8 @@
 3. Afin de rajouter un composant il suffit d'exécuter la commande suivante : `ng generate component --skip-tests=true --inline-style book-form`
 4. Pour installer `MatAngular` sur votre projet il suffit d'exécuter la commande suivante : `ng add @angular/material`
 5. Entourer l'`input` d'une balise `mat-form-field`, lui rajouter l'attribut `matInput` et transformer le `label` en `mat-label`
-6.
-7.
+6. Ajout des attributs `mat-flat-button color="primary"` sur les balises `button`
+7. Utilisation d'un élément `mat-menu` (voir documentation en annexe)
 
 ## Bonnes pratiques
 
