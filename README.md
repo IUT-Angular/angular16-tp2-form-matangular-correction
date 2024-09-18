@@ -1,5 +1,7 @@
 # TP2
 
+**ATTENTION la correction a été faite en Angular 16, il y a donc le fichier `app.module.ts`**
+
 ## Sujet
 
 1. Sur la liste des livres, afficher la date au format `Mardi 30 octobre 1990` avec un pipe
